@@ -6,3 +6,5 @@
 *.avi
 /Yolov4
 *.zip
+*.pyc
+*.ply
