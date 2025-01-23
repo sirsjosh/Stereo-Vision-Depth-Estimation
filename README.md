@@ -1,6 +1,6 @@
 # Stereo Vision Depth Estimation
 
-<img src='' />
+<img src='stereo.png' />
 
 This repository contains a project focused on **stereo vision depth estimation** using Python and computer vision techniques. The goal of the project is to reconstruct the 3D structure of a scene from two stereo images, enabling depth perception through disparity map generation, and ultimately creating a 3D point cloud representation of the scene.
 
