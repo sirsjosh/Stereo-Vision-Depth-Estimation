@@ -9,3 +9,5 @@
 *.pyc
 *.ply
 *__MACOSX
+*.conda
+*stereo_vision_data
