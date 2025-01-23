@@ -8,3 +8,4 @@
 *.zip
 *.pyc
 *.ply
+*__MACOSX
