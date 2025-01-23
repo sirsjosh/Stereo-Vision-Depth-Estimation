@@ -1,0 +1,8 @@
+*.png
+*.bin
+*.txt
+*.npy
+*.mp4
+*.avi
+/Yolov4
+*.zip
